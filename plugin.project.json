@@ -1,0 +1,9 @@
+{
+  "name": "CodeRobloxPlugin",
+  "tree": {
+    "$className": "Folder",
+    "CodeRobloxPlugin": {
+      "$path": "plugin/src"
+    }
+  }
+}

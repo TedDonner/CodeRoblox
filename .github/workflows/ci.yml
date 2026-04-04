@@ -1,0 +1,38 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up mise and install toolchain
+        uses: jdx/mise-action@v3
+        with:
+          install: true
+          cache: true
+
+      - name: Verify Roblox toolchain
+        run: |
+          mise x -- rojo --version
+          mise x -- lune --version
+          mise x -- stylua --version
+          mise x -- selene --version
+
+      - name: Run checks
+        run: make ci

@@ -1,0 +1,17 @@
+[tools]
+"github:rojo-rbx/rojo" = "7.6.1"
+"github:lune-org/lune" = "0.10.4"
+"github:JohnnyMorganz/StyLua" = "2.4.0"
+"github:Kampfkarren/selene" = "0.30.1"
+
+[tasks.format]
+run = "make format"
+
+[tasks.lint]
+run = "make lint"
+
+[tasks.test]
+run = "make test"
+
+[tasks.ci]
+run = "make ci"
