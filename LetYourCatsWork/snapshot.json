@@ -1,0 +1,2010 @@
+{
+  "captured_at": "2026-05-21T17:21:29Z",
+  "diagnostics": [
+    {
+      "message": "Vorgang fehlgeschlagen. Bitte \u00fcberpr\u00fcfe deine Netzwerkverbindung und versuche es erneut. Sollte der Fehler weiterhin bestehen, kontaktiere den Kundendienst",
+      "severity": "error",
+      "source": "roblox_output",
+      "timestamp": 1779383934.421
+    },
+    {
+      "message": "Fehler beim Abrufen von Metadaten f\u00fcr verwandten Ort",
+      "severity": "error",
+      "source": "roblox_output",
+      "timestamp": 1779383934.421
+    },
+    {
+      "message": "CodeRoblox plugin loaded",
+      "severity": "warning",
+      "source": "roblox_output",
+      "timestamp": 1779383935.69
+    },
+    {
+      "message": "CodeRoblox toolbar clicked (widget.Enabled=false)",
+      "severity": "warning",
+      "source": "roblox_output",
+      "timestamp": 1779383938.735
+    }
+  ],
+  "metadata": {
+    "output_logs": [
+      {
+        "message": "Bigandi76 joined live editing session.",
+        "message_type": "Enum.MessageType.MessageInfo",
+        "timestamp": 1779383933.318
+      },
+      {
+        "message": "Vorgang fehlgeschlagen. Bitte \u00fcberpr\u00fcfe deine Netzwerkverbindung und versuche es erneut. Sollte der Fehler weiterhin bestehen, kontaktiere den Kundendienst",
+        "message_type": "Enum.MessageType.MessageError",
+        "timestamp": 1779383934.421
+      },
+      {
+        "message": "Fehler beim Abrufen von Metadaten f\u00fcr verwandten Ort",
+        "message_type": "Enum.MessageType.MessageError",
+        "timestamp": 1779383934.421
+      },
+      {
+        "message": "CodeRoblox plugin loaded",
+        "message_type": "Enum.MessageType.MessageWarning",
+        "timestamp": 1779383935.69
+      },
+      {
+        "message": "CodeRoblox toolbar clicked (widget.Enabled=false)",
+        "message_type": "Enum.MessageType.MessageWarning",
+        "timestamp": 1779383938.735
+      }
+    ],
+    "root_service_count": 10,
+    "script_count": 3,
+    "selected_count": 0
+  },
+  "mirror": {
+    "root_dir": "/mnt/c/Users/ted/Documents/CodeRoblox/studio_mirror/session-b3760760d569",
+    "script_entries": [
+      {
+        "class_name": "Script",
+        "mirror_path": "scripts/Workspace/Noob/torso/ProximityPrompt/Script.server.luau",
+        "roblox_path": "Workspace/Noob/torso/ProximityPrompt/Script",
+        "source_sha256": "06faad47ce2a4401d190d42ec286f46c7283f9042590bd6b8b6700beed151e93"
+      },
+      {
+        "class_name": "LocalScript",
+        "mirror_path": "scripts/StarterGui/Money/TextLabel/LocalScript.client.luau",
+        "roblox_path": "StarterGui/Money/TextLabel/LocalScript",
+        "source_sha256": "d85cd79addff2d6f2cc8e7eec53863e0591c2cb49603cf15f833f578f2a54541"
+      },
+      {
+        "class_name": "LocalScript",
+        "mirror_path": "scripts/StarterGui/Noob1-dialuoge/LocalScript.client.luau",
+        "roblox_path": "StarterGui/Noob1 dialuoge/LocalScript",
+        "source_sha256": "e41cfd39e70db0d5504b4449bb1b78189a3ae09bcc4c52d3fcc2b8f56111a3b8"
+      }
+    ],
+    "scripts_dir": "/mnt/c/Users/ted/Documents/CodeRoblox/studio_mirror/session-b3760760d569/scripts"
+  },
+  "nodes": [
+    {
+      "child_count": 13,
+      "children": [
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "Terrain",
+          "is_selected": false,
+          "name": "Terrain",
+          "path": "Workspace/Terrain",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "Part",
+          "is_selected": false,
+          "name": "middle of map",
+          "path": "Workspace/middle of map",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 25,
+          "children": [
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 31,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "ultra zaun",
+              "path": "Workspace/base/ultra zaun",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 46,
+              "children": [],
+              "class_name": "Model",
+              "is_selected": false,
+              "name": "normal pc",
+              "path": "Workspace/base/normal pc",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/base/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "base",
+          "path": "Workspace/base",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 23,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth2/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "Booth2",
+          "path": "Workspace/Booth2",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 1,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Decal",
+              "is_selected": false,
+              "name": "Decal",
+              "path": "Workspace/SpawnLocation/Decal",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "SpawnLocation",
+          "is_selected": false,
+          "name": "SpawnLocation",
+          "path": "Workspace/SpawnLocation",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 23,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Booth1/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "Booth1",
+          "path": "Workspace/Booth1",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 1,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Texture",
+              "is_selected": false,
+              "name": "Texture",
+              "path": "Workspace/Baseplate/Texture",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Part",
+          "is_selected": false,
+          "name": "Baseplate",
+          "path": "Workspace/Baseplate",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 57,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/pizza/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "pizza",
+          "path": "Workspace/pizza",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 4,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "noobini head",
+          "path": "Workspace/noobini head",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 4,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Noob Torso/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Noob Torso/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Noob Torso/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/Noob Torso/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "Noob Torso",
+          "path": "Workspace/Noob Torso",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 7,
+          "children": [
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "right arm",
+              "path": "Workspace/Noob/right arm",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "right leg",
+              "path": "Workspace/Noob/right leg",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 3,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Head",
+              "path": "Workspace/Noob/Head",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "left arm",
+              "path": "Workspace/Noob/left arm",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "left leg",
+              "path": "Workspace/Noob/left leg",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "torso",
+              "path": "Workspace/Noob/torso",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Humanoid",
+              "is_selected": false,
+              "name": "Humanoid",
+              "path": "Workspace/Noob/Humanoid",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "Noob",
+          "path": "Workspace/Noob",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 6,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            },
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "Part",
+              "is_selected": false,
+              "name": "Part",
+              "path": "Workspace/noobini head/Part",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "Model",
+          "is_selected": false,
+          "name": "noobini head",
+          "path": "Workspace/noobini head",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "Camera",
+          "is_selected": false,
+          "name": "Camera",
+          "path": "Workspace/Camera",
+          "script_source": null,
+          "source_sha256": null
+        }
+      ],
+      "class_name": "Workspace",
+      "is_selected": false,
+      "name": "Workspace",
+      "path": "Workspace",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 1,
+      "children": [
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "RemoteEvent",
+          "is_selected": false,
+          "name": "OpenShopGUI",
+          "path": "ReplicatedStorage/OpenShopGUI",
+          "script_source": null,
+          "source_sha256": null
+        }
+      ],
+      "class_name": "ReplicatedStorage",
+      "is_selected": false,
+      "name": "ReplicatedStorage",
+      "path": "ReplicatedStorage",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 0,
+      "children": [],
+      "class_name": "ServerScriptService",
+      "is_selected": false,
+      "name": "ServerScriptService",
+      "path": "ServerScriptService",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 0,
+      "children": [],
+      "class_name": "ServerStorage",
+      "is_selected": false,
+      "name": "ServerStorage",
+      "path": "ServerStorage",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 2,
+      "children": [
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "StarterPlayerScripts",
+          "is_selected": false,
+          "name": "StarterPlayerScripts",
+          "path": "StarterPlayer/StarterPlayerScripts",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "StarterCharacterScripts",
+          "is_selected": false,
+          "name": "StarterCharacterScripts",
+          "path": "StarterPlayer/StarterCharacterScripts",
+          "script_source": null,
+          "source_sha256": null
+        }
+      ],
+      "class_name": "StarterPlayer",
+      "is_selected": false,
+      "name": "StarterPlayer",
+      "path": "StarterPlayer",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 3,
+      "children": [
+        {
+          "child_count": 1,
+          "children": [
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "TextLabel",
+              "is_selected": false,
+              "name": "TextLabel",
+              "path": "StarterGui/Money/TextLabel",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "ScreenGui",
+          "is_selected": false,
+          "name": "Money",
+          "path": "StarterGui/Money",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 2,
+          "children": [
+            {
+              "child_count": 0,
+              "children": [],
+              "class_name": "LocalScript",
+              "is_selected": false,
+              "name": "LocalScript",
+              "path": "StarterGui/Noob1 dialuoge/LocalScript",
+              "script_source": "local frame = script.Parent:WaitForChild(\"Frame\")\nlocal event = game.ReplicatedStorage:WaitForChild(\"OpenShopGUI\")\nlocal text  = frame:WaitForChild(\"TextLabel\")\n\nevent.OnClientEvent:Connect(function()\n\tframe.Visible = true\n\ttext.Visible = true\n\twait(5)\n\tframe.Visible = false\n\ttext.Visible = false\nend)\n\n",
+              "source_sha256": "e41cfd39e70db0d5504b4449bb1b78189a3ae09bcc4c52d3fcc2b8f56111a3b8"
+            },
+            {
+              "child_count": 1,
+              "children": [],
+              "class_name": "Frame",
+              "is_selected": false,
+              "name": "Frame",
+              "path": "StarterGui/Noob1 dialuoge/Frame",
+              "script_source": null,
+              "source_sha256": null
+            }
+          ],
+          "class_name": "ScreenGui",
+          "is_selected": false,
+          "name": "Noob1 dialuoge",
+          "path": "StarterGui/Noob1 dialuoge",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "ScreenGui",
+          "is_selected": false,
+          "name": "Shop",
+          "path": "StarterGui/Shop",
+          "script_source": null,
+          "source_sha256": null
+        }
+      ],
+      "class_name": "StarterGui",
+      "is_selected": false,
+      "name": "StarterGui",
+      "path": "StarterGui",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 0,
+      "children": [],
+      "class_name": "StarterPack",
+      "is_selected": false,
+      "name": "StarterPack",
+      "path": "StarterPack",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 0,
+      "children": [],
+      "class_name": "ReplicatedFirst",
+      "is_selected": false,
+      "name": "ReplicatedFirst",
+      "path": "ReplicatedFirst",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 5,
+      "children": [
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "Sky",
+          "is_selected": false,
+          "name": "Sky",
+          "path": "Lighting/Sky",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "SunRaysEffect",
+          "is_selected": false,
+          "name": "SunRays",
+          "path": "Lighting/SunRays",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "Atmosphere",
+          "is_selected": false,
+          "name": "Atmosphere",
+          "path": "Lighting/Atmosphere",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "BloomEffect",
+          "is_selected": false,
+          "name": "Bloom",
+          "path": "Lighting/Bloom",
+          "script_source": null,
+          "source_sha256": null
+        },
+        {
+          "child_count": 0,
+          "children": [],
+          "class_name": "DepthOfFieldEffect",
+          "is_selected": false,
+          "name": "DepthOfField",
+          "path": "Lighting/DepthOfField",
+          "script_source": null,
+          "source_sha256": null
+        }
+      ],
+      "class_name": "Lighting",
+      "is_selected": false,
+      "name": "Lighting",
+      "path": "Lighting",
+      "script_source": null,
+      "source_sha256": null
+    },
+    {
+      "child_count": 0,
+      "children": [],
+      "class_name": "SoundService",
+      "is_selected": false,
+      "name": "SoundService",
+      "path": "SoundService",
+      "script_source": null,
+      "source_sha256": null
+    }
+  ],
+  "project_name": "Place1",
+  "script_documents": [
+    {
+      "class_name": "Script",
+      "name": "Script",
+      "path": "Workspace/Noob/torso/ProximityPrompt/Script",
+      "source": "local prompt = script.Parent\nlocal event = game.ReplicatedStorage:WaitForChild(\"OpenShopGUI\")\n\nprompt.Triggered:Connect(function(player)\n\t-- Sende Nachricht an diesen Spieler, damit das GUI erscheint\n\tevent:FireClient(player)\nend)\n\n\n\n",
+      "source_sha256": "06faad47ce2a4401d190d42ec286f46c7283f9042590bd6b8b6700beed151e93"
+    },
+    {
+      "class_name": "LocalScript",
+      "name": "LocalScript",
+      "path": "StarterGui/Money/TextLabel/LocalScript",
+      "source": "local label = script.Parent\n\n-- Beispiel-Wert (so w\u00fcrde sp\u00e4ter der Wert aus dem Leaderstats kommen)\nlocal moneyValue = 150\n\n-- Text anzeigen\nlabel.Text = \"Cash: \" .. moneyValue\n\n",
+      "source_sha256": "d85cd79addff2d6f2cc8e7eec53863e0591c2cb49603cf15f833f578f2a54541"
+    },
+    {
+      "class_name": "LocalScript",
+      "name": "LocalScript",
+      "path": "StarterGui/Noob1 dialuoge/LocalScript",
+      "source": "local frame = script.Parent:WaitForChild(\"Frame\")\nlocal event = game.ReplicatedStorage:WaitForChild(\"OpenShopGUI\")\nlocal text  = frame:WaitForChild(\"TextLabel\")\n\nevent.OnClientEvent:Connect(function()\n\tframe.Visible = true\n\ttext.Visible = true\n\twait(5)\n\tframe.Visible = false\n\ttext.Visible = false\nend)\n\n",
+      "source_sha256": "e41cfd39e70db0d5504b4449bb1b78189a3ae09bcc4c52d3fcc2b8f56111a3b8"
+    }
+  ],
+  "selection_nodes": [],
+  "selection_paths": []
+}

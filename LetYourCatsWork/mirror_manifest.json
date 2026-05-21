@@ -1,0 +1,34 @@
+{
+  "client_name": "roblox-studio-plugin",
+  "files": {
+    "scripts_dir": "scripts",
+    "snapshot": "snapshot.json"
+  },
+  "last_sync_at": "2026-05-21T17:21:29.776459+00:00",
+  "project_name": "Place1",
+  "project_root": "/mnt/c/Users/ted/Documents/CodeRoblox",
+  "script_count": 3,
+  "scripts": [
+    {
+      "class_name": "Script",
+      "mirror_path": "scripts/Workspace/Noob/torso/ProximityPrompt/Script.server.luau",
+      "roblox_path": "Workspace/Noob/torso/ProximityPrompt/Script",
+      "source_sha256": "06faad47ce2a4401d190d42ec286f46c7283f9042590bd6b8b6700beed151e93"
+    },
+    {
+      "class_name": "LocalScript",
+      "mirror_path": "scripts/StarterGui/Money/TextLabel/LocalScript.client.luau",
+      "roblox_path": "StarterGui/Money/TextLabel/LocalScript",
+      "source_sha256": "d85cd79addff2d6f2cc8e7eec53863e0591c2cb49603cf15f833f578f2a54541"
+    },
+    {
+      "class_name": "LocalScript",
+      "mirror_path": "scripts/StarterGui/Noob1-dialuoge/LocalScript.client.luau",
+      "roblox_path": "StarterGui/Noob1 dialuoge/LocalScript",
+      "source_sha256": "e41cfd39e70db0d5504b4449bb1b78189a3ae09bcc4c52d3fcc2b8f56111a3b8"
+    }
+  ],
+  "selection_paths": [],
+  "session_id": "session-b3760760d569",
+  "snapshot_digest": "cebe67cb9484aa5ea2daffdc8b6757c356e86c628f4d775b0e396d2689eb2c68"
+}
